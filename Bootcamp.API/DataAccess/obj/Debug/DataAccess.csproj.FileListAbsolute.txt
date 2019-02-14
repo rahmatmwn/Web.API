@@ -1,0 +1,28 @@
+D:\Bootcamp MII\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe.config
+D:\Bootcamp MII\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe
+D:\Bootcamp MII\Bootcamp.API\DataAccess\bin\Debug\DataAccess.pdb
+D:\Bootcamp MII\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.dll
+D:\Bootcamp MII\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp MII\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.xml
+D:\Bootcamp MII\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp MII\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Bootcamp MII\Bootcamp.API\DataAccess\obj\Debug\DataAccess.exe
+D:\Bootcamp MII\Bootcamp.API\DataAccess\obj\Debug\DataAccess.pdb
+D:\Bootcamp MII\Bootcamp.API\DataAccess\bin\Debug\Core.exe
+D:\Bootcamp MII\Bootcamp.API\DataAccess\bin\Debug\Core.pdb
+D:\Bootcamp MII\Bootcamp.API\DataAccess\obj\Debug\DataAccess.Migrations.AddingSupplier.resources
+D:\Bootcamp MII\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+K:\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe.config
+K:\Bootcamp.API\DataAccess\bin\Debug\DataAccess.exe
+K:\Bootcamp.API\DataAccess\bin\Debug\DataAccess.pdb
+K:\Bootcamp.API\DataAccess\bin\Debug\Core.exe
+K:\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.dll
+K:\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+K:\Bootcamp.API\DataAccess\bin\Debug\Core.pdb
+K:\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.xml
+K:\Bootcamp.API\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+K:\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+K:\Bootcamp.API\DataAccess\obj\Debug\DataAccess.exe
+K:\Bootcamp.API\DataAccess\obj\Debug\DataAccess.pdb
+K:\Bootcamp.API\DataAccess\obj\Debug\DataAccess.Migrations.add.resources
+K:\Bootcamp.API\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
