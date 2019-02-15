@@ -26,3 +26,17 @@ K:\Bootcamp.API\Common\bin\Debug\EntityFramework.SqlServer.xml
 K:\Bootcamp.API\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 K:\Bootcamp.API\Common\obj\Debug\Common.exe
 K:\Bootcamp.API\Common\obj\Debug\Common.pdb
+E:\Git\Web.API\Bootcamp.API\Common\bin\Debug\Common.exe.config
+E:\Git\Web.API\Bootcamp.API\Common\bin\Debug\Common.exe
+E:\Git\Web.API\Bootcamp.API\Common\bin\Debug\Common.pdb
+E:\Git\Web.API\Bootcamp.API\Common\bin\Debug\Core.exe
+E:\Git\Web.API\Bootcamp.API\Common\bin\Debug\DataAccess.exe
+E:\Git\Web.API\Bootcamp.API\Common\bin\Debug\EntityFramework.dll
+E:\Git\Web.API\Bootcamp.API\Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\Web.API\Bootcamp.API\Common\bin\Debug\Core.pdb
+E:\Git\Web.API\Bootcamp.API\Common\bin\Debug\DataAccess.pdb
+E:\Git\Web.API\Bootcamp.API\Common\bin\Debug\EntityFramework.xml
+E:\Git\Web.API\Bootcamp.API\Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\Web.API\Bootcamp.API\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\Git\Web.API\Bootcamp.API\Common\obj\Debug\Common.exe
+E:\Git\Web.API\Bootcamp.API\Common\obj\Debug\Common.pdb

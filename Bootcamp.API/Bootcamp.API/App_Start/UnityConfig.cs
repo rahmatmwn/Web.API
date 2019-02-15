@@ -23,6 +23,12 @@ namespace Bootcamp.API
             // this is repository area
             container.RegisterType<ISupplierRepository, SupplierRepository>();
 
+            // this is service area
+            container.RegisterType<IItemService, ItemService>();
+
+            // this is repository area
+            container.RegisterType<IItemRepository, ItemRepository>();
+
             GlobalConfiguration.Configuration.DependencyResolver = new UnityDependencyResolver(container);
         }
     }
